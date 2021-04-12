@@ -6,7 +6,7 @@ The goal of this challenge was to replace the data that is not accurate at Thoma
 
 ## Results
 
-The folowing image shows the overall passing percentage of the distric, in this analysis we removed math and reading scores for 9th graders at Thomas High School. Calculating the percentage from all the schools in the district of student that approved reading claa, math class and both of them.
+The following image shows the overall passing percentage of the distric, in this analysis we removed math and reading scores for 9th graders at Thomas High School. Calculating the percentage from all the schools in the district of student that approved reading claa, math class and both of them.
 
 ![District_Summary](Resources/District_Summary.PNG) 
 
