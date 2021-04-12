@@ -16,7 +16,7 @@ The following table is from Thomas High school scores. Calculating the percentag
 
 ## Summary
 
-The changes that occurred in the analysis are the number of students, average math scores, average reading scores and the percentage of students that approved in reading and math at Thomas High school. Since the whole data set was decreased by removing the students of 9th grade and filtering only by Thomas High school. This leads to the outcomes already mentioned. 
+The changes that occurred in the analysis are the number of students, average math scores, average reading scores and the percentage of students that approved in reading and math at the school district. Since the whole data set was decreased by removing the students of 9th grade from Thomas High school. This leads to the outcomes already mentioned. 
 
 
 
